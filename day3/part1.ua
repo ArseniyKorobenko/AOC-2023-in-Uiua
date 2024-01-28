@@ -1,4 +1,4 @@
-Input ← ⊜∘≠,@\n &fras "input.txt"
+Input ← ⊜∘¬∊,"\r\n" &fras "input.txt"
 Symbol ← ¬∊:".0123456789"
 Number ← ∊:"0123456789"
 DropOnes ← /+≡↻⇡:¤⊂↯⊙0-1,>1≡/×◫,:
