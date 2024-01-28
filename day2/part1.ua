@@ -5,4 +5,4 @@ F ← (
   °⊟⍉↯¯1_2↘2⊜□≠,@ ⊂:@; # transpose line into 2 arrays
   /↧≤Max⊕/↥ -4≡(⧻°□):⋕  # group by color's word length
 )
-/+×+1⇡⧻. ⊜F≠,@\n Input
+/+×+1⇡⧻. ⊜F¬∊,"\r\n" Input
