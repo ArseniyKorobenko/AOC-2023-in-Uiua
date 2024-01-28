@@ -4,4 +4,4 @@ F ← (
   °⊟⍉↯¯1_2↘2⊜□≠,@ ⊂:@; # transpose line into 2 arrays
   /×⊕/↥ -4≡(⧻°□):⋕     # group by color's word length
 )
-/+⊜F≠,@\n Input
+/+⊜F¬∊,"\r\n" Input
