@@ -1,4 +1,4 @@
-Input ← ⊜∘≠,@\n&fras "input.txt"
+Input ← ⊜∘¬∊,"\r\n" &fras "input.txt"
 Gears ← ⊚=@*Input
 Numbers ← ∊:"0123456789"Input
 
